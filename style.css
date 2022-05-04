@@ -1,0 +1,22 @@
+body{
+    max-width: 7000px;
+    margin: 5rem 0 1.5rem 1.5rem;
+}
+.container{
+    margin-bottom: 0.5rem;
+    display:  flex;
+    justify-content: space-evenly;
+}
+.container__datos{
+    padding: 1rem;
+    align-items: center;
+}
+header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index:100;
+    background-color: black;
+    color: white;
+}
